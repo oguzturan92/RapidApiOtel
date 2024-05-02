@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RapidApi-Odev.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RapidApi-Odev.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\Template\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\Template\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Template\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Template\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Template\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Template\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\about\\about-p1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about\\about-p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\about\\about-p2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about\\about-p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\about\\about-p3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about\\about-p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\avatar\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\avatar\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\blog-details-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\blog-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\blog-details-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\blog-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\blog-details-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\blog-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-details\\blog-details-hero.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-details\\blog-details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\blog\\blog-wide.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-wide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\flag.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\Template\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\hero\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\hero\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Template\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\play.png",
+      "PackagePath": "staticwebassets\\Template\\img\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-b1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-b2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-b3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-b4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\room\\room-details.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\room\\room-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\services\\s-icon-1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\services\\s-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\testimonial-logo.png",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonial-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\main.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\Template\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\proje\\RapidApi-Odev\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RapidApi-Odev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RapidApi-Odev.props",
+      "PackagePath": "build\\RapidApi-Odev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RapidApi-Odev.props",
+      "PackagePath": "buildMultiTargeting\\RapidApi-Odev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RapidApi-Odev.props",
+      "PackagePath": "buildTransitive\\RapidApi-Odev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
