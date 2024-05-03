@@ -82,7 +82,7 @@ public class HomeController : Controller
     }
 
     [HttpGet]
-    public async Task<IActionResult> RoomDetail(string hotel_id, string arrival_date, string departure_date)
+    public async Task<IActionResult> RoomDetail(string hotel_id, string arrival_date, string departure_date, string photoUrl)
     {
         var client = new HttpClient();
         var request = new HttpRequestMessage
@@ -100,6 +100,7 @@ public class HomeController : Controller
             response.EnsureSuccessStatusCode();
             var body = await response.Content.ReadAsStringAsync();
             var otelDetailModel = JsonConvert.DeserializeObject<OtelDetailModel>(body);
+            otelDetailModel.photoUrl = photoUrl;
             return View(otelDetailModel);
         }
     }

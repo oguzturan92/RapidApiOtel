@@ -20,5 +20,6 @@ namespace RapidApi_Odev.Models
 			public string currency_code { get; set; } // para birimi
             public string[] family_facilities { get; set; }
         }
+		public string photoUrl { get; set; }
     }
 }

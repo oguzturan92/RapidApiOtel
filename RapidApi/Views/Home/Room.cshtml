@@ -43,7 +43,7 @@
                                         </tbody>
                                     </table>
                                     <span>@item.accessibilityLabel</span>
-                                    <a asp-controller="Home" asp-action="RoomDetail" asp-route-hotel_id="@item.hotel_id" asp-route-arrival_date="@item.property.checkinDate" asp-route-departure_date="@item.property.checkoutDate" class="primary-btn">daha fazla...</a>
+                                    <a asp-controller="Home" asp-action="RoomDetail" asp-route-hotel_id="@item.hotel_id" asp-route-arrival_date="@item.property.checkinDate" asp-route-departure_date="@item.property.checkoutDate" asp-route-photoUrl="@item.property.photoUrls[0]" class="primary-btn">daha fazla...</a>
                                 </div>
                             </div>
                         </div>

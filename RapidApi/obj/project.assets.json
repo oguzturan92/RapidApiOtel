@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\proje\\RapidApi-Odev\\RapidApi-Odev.csproj",
+      "projectUniqueName": "C:\\Users\\oğuzhan\\Documents\\GitHub\\RapidApiOtel\\RapidApi\\RapidApi-Odev.csproj",
       "projectName": "RapidApi-Odev",
-      "projectPath": "C:\\Users\\proje\\RapidApi-Odev\\RapidApi-Odev.csproj",
+      "projectPath": "C:\\Users\\oğuzhan\\Documents\\GitHub\\RapidApiOtel\\RapidApi\\RapidApi-Odev.csproj",
       "packagesPath": "C:\\Users\\oğuzhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\proje\\RapidApi-Odev\\obj\\",
+      "outputPath": "C:\\Users\\oğuzhan\\Documents\\GitHub\\RapidApiOtel\\RapidApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
