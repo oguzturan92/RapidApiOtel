@@ -31,7 +31,7 @@
                     {
                         <div class="col-lg-4 col-md-6">
                             <div class="room-item">
-                                <img src="@item.property.photoUrls[0]" alt="">
+                                <img src="@item.property.photoUrls[0].Replace("square60","square480")" alt="">
                                 <div class="ri-text">
                                     <h4>@item.property.name</h4>
                                     <h3>@item.property.reviewCount<span> / @item.property.currency</span></h3>
