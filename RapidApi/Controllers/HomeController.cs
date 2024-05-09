@@ -48,7 +48,7 @@ public class HomeController : Controller
             RequestUri = new Uri($"https://booking-com15.p.rapidapi.com/api/v1/hotels/searchDestination?query={city}"),
             Headers =
             {
-                { "X-RapidAPI-Key", "284c37bb44msh75f9c69b5e31064p1cbed5jsnb965f4713f5e" },
+                { "X-RapidAPI-Key", "buraya kendi api key bilginizi giriniz" },
                 { "X-RapidAPI-Host", "booking-com15.p.rapidapi.com" },
             },
         };
@@ -68,7 +68,7 @@ public class HomeController : Controller
             RequestUri = new Uri($"https://booking-com15.p.rapidapi.com/api/v1/hotels/searchHotels?dest_id={cityId}&search_type=city&arrival_date={checkin}&departure_date={checkout}&adults={adultCount}&room_qty={roomCount}&page_number=1&languagecode=en-us&currency_code=EUR"),
             Headers =
             {
-                { "X-RapidAPI-Key", "284c37bb44msh75f9c69b5e31064p1cbed5jsnb965f4713f5e" },
+                { "X-RapidAPI-Key", "buraya kendi api key bilginizi giriniz" },
                 { "X-RapidAPI-Host", "booking-com15.p.rapidapi.com" },
             },
         };
@@ -91,7 +91,7 @@ public class HomeController : Controller
             RequestUri = new Uri($"https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelDetails?hotel_id={hotel_id}&arrival_date={arrival_date}&departure_date={departure_date}&languagecode=en-us&currency_code=EUR"),
             Headers =
             {
-                { "X-RapidAPI-Key", "284c37bb44msh75f9c69b5e31064p1cbed5jsnb965f4713f5e" },
+                { "X-RapidAPI-Key", "buraya kendi api key bilginizi giriniz" },
                 { "X-RapidAPI-Host", "booking-com15.p.rapidapi.com" },
             },
         };
